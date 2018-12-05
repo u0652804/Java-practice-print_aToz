@@ -1,4 +1,4 @@
-# Java-pritice-MultiTable
+# Java-pritice-Print "a1" ~ "z1"
 
 ### Problem
 有一String為"a,b,c,d,e,f,g..."，請分別列印出"a1"、"b1"、"c1"...
