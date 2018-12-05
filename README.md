@@ -1,12 +1,12 @@
 # Java-pritice-MultiTable
 
-# Problem
+### Problem
 有一String為"a,b,c,d,e,f,g..."，請分別列印出"a1"、"b1"、"c1"...
 
-# output
+### output
 ![demo](/image/demo.png)
 
-'''ruby
+
 		
 		String str = "";
 		
@@ -23,4 +23,4 @@
 		// print a1 b1 c1...
 		for(int i = 0; i < str.toCharArray().length; i += 2)
 			System.out.println(str.charAt(i) + "" + '1');
-'''
+
