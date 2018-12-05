@@ -6,7 +6,7 @@
 ### output
 ![demo](/image/demo.png)
 
-
+### Java code
 		
 		String str = "";
 		
